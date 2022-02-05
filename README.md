@@ -6,5 +6,5 @@ So I would like to thanks of "Coding With Adam"</br>
 Coding with love</br>
 Ali💗
 ### Screenshots
-!.[Title screen].(https://raw.githubusercontent.com/AliShahbazi01/Snake.github.io/main/Capture2.PNG)
-!.[Play screen].(https://raw.githubusercontent.com/AliShahbazi01/Snake.github.io/main/Capture1.PNG)
+<img src="https://raw.githubusercontent.com/AliShahbazi01/Snake.github.io/main/Capture1.PNG" alt="My Snake">
+<img src="https://raw.githubusercontent.com/AliShahbazi01/Snake.github.io/main/Capture2.PNG" alt="My Snake">
