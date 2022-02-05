@@ -1,2 +1,4 @@
 # Snake.github.io
-Snake Game 
+## Snake Game
+Hi. My name is Ali Shahbazi</br>
+
